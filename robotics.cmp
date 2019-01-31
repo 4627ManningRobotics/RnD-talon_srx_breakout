@@ -1,0 +1,27 @@
+Cmp-Mod V01 Created by PcbNew   date = 2019-01-01 8:49:52 PM
+
+BeginCmp
+TimeStamp = 5BE5CF78
+Path = /5C23E42B
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE5CF8F
+Path = /5BCD22FE
+Reference = J2;
+ValeurCmp = Conn_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE5CFAF
+Path = /5BCD2483
+Reference = J3;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+EndListe
